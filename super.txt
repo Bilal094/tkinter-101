@@ -1,0 +1,1 @@
+Ik heb tkinter gekozen, omdat het heel eenvoudig is om kleine applicaties te bouwen met tkinter en dat moedigt mij aan om meer uit te proberen.
